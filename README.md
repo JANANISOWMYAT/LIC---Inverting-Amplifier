@@ -47,10 +47,12 @@ PC with LT Spice Software
 ![TABULATION(EXP1)](https://github.com/user-attachments/assets/b9a7714b-84f5-4b99-8ce3-2b5f01b51d92)
 ## OUTPUTS:
 INPUT WAVEFORM
+
 <img width="727" height="511" alt="INPUT(EXP1)" src="https://github.com/user-attachments/assets/06d62e7f-cd3e-4cb6-aa95-c66d6e5b73fb" />
 
 
 OUTPUT WAVEFORM
+
 <img width="726" height="511" alt="OUTPUT(EXP1)" src="https://github.com/user-attachments/assets/6b82f870-76bd-4ca3-b4d0-097dae461e5c" />
 
 
