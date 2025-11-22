@@ -5,7 +5,6 @@ To simulate an operational based Inverting Amplifier
 PC with LT Spice Software
 ## Circuit Diagram:
  ![EXP1](https://github.com/user-attachments/assets/5cbb0002-f943-42ff-b08b-d5f5c90fbf4a)
-
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
    
@@ -45,6 +44,8 @@ PC with LT Spice Software
 INPUT
 
 <img width="727" height="511" alt="INPUT(EXP1)" src="https://github.com/user-attachments/assets/06d62e7f-cd3e-4cb6-aa95-c66d6e5b73fb" />
+
+
 
 OUTPUT
 
