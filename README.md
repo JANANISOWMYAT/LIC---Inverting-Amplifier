@@ -2,7 +2,8 @@
 ## Aim:
 To simulate an operational based Inverting Amplifier
 ## Apparatus required:
-PC with LT Spice Software ## Circuit Diagram:
+PC with LT Spice Software 
+## Circuit Diagram:
  ![EXP1](https://github.com/user-attachments/assets/5cbb0002-f943-42ff-b08b-d5f5c90fbf4a)
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -36,8 +37,6 @@ PC with LT Spice Software ## Circuit Diagram:
 15.	Select the required node voltages (V(n001)) to get the waveforms.
 	
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
-
-## THEORITICAL CALCULATION:
 
 ## OUTPUTS:
 INPUT
