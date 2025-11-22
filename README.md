@@ -45,9 +45,7 @@ INPUT
 
 <img width="727" height="511" alt="INPUT(EXP1)" src="https://github.com/user-attachments/assets/06d62e7f-cd3e-4cb6-aa95-c66d6e5b73fb" />
 
-
 OUTPUT
-
 <img width="726" height="511" alt="OUTPUT(EXP1)" src="https://github.com/user-attachments/assets/6b82f870-76bd-4ca3-b4d0-097dae461e5c" />
 
 
