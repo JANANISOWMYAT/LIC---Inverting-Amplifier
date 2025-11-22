@@ -2,8 +2,7 @@
 ## Aim:
 To simulate an operational based Inverting Amplifier
 ## Apparatus required:
-PC with LT Spice Software
-## Circuit Diagram:
+PC with LT Spice Software ## Circuit Diagram:
  ![EXP1](https://github.com/user-attachments/assets/5cbb0002-f943-42ff-b08b-d5f5c90fbf4a)
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
