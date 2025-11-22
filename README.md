@@ -4,7 +4,7 @@ To simulate an operational based Inverting Amplifier
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
-![EXP1](https://github.com/user-attachments/assets/5cbb0002-f943-42ff-b08b-d5f5c90fbf4a)
+ ![EXP1](https://github.com/user-attachments/assets/5cbb0002-f943-42ff-b08b-d5f5c90fbf4a)
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -42,9 +42,10 @@ PC with LT Spice Software
 ## THEORITICAL CALCULATION:
 
 ## OUTPUTS:
-<img width="727" height="511" alt="INPUT(EXP1)" src="https://github.com/user-attachments/assets/06d62e7f-cd3e-4cb6-aa95-c66d6e5b73fb" />
-
-<img width="726" height="511" alt="OUTPUT(EXP1)" src="https://github.com/user-attachments/assets/6b82f870-76bd-4ca3-b4d0-097dae461e5c" />
+INPUT:
+     <img width="727" height="511" alt="INPUT(EXP1)" src="https://github.com/user-attachments/assets/06d62e7f-cd3e-4cb6-aa95-c66d6e5b73fb" />
+OUTPUT:
+     <img width="726" height="511" alt="OUTPUT(EXP1)" src="https://github.com/user-attachments/assets/6b82f870-76bd-4ca3-b4d0-097dae461e5c" />
 
 ## RESULT:
-![RESULT (EXP1)](https://github.com/user-attachments/assets/f3f8cc73-4a10-4388-a0a3-278614be9ebc)
+  ![RESULT (EXP1)](https://github.com/user-attachments/assets/f3f8cc73-4a10-4388-a0a3-278614be9ebc)
